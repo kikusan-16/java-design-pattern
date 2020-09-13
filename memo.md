@@ -245,5 +245,8 @@
 
 ## 参照
 
+レベルアップJava ～デザインパターン編～
+
 (各デザインパターンの「使いどころ」を一言でまとめてみた)[https://qiita.com/cooloon/items/62f182f77f70135e31bf]
 
+(再考: GoF デザインパターン)[https://qiita.com/irxground/items/d1f9cc447bafa8db2388]
