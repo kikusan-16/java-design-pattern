@@ -4,7 +4,7 @@
 
 ## ソース
 
-(全部入りサンプルソース)[https://github.com/kikusan-16/java-design-pattern.git]
+[全部入りサンプルソース](https://github.com/kikusan-16/java-design-pattern.git)
 
 ## オブジェクトの生成に関するパターン
 
@@ -89,9 +89,9 @@
 
 ### Composite
 
-木構造を再帰的に表現する
-
 <img class="w-100" src="/media/uploads/2020/09/13/Composite.png"> 
+
+木構造を再帰的に表現する
 
 - 利用シーン 
     - 木構造を持つオブジェクトを表現するとき（例:ディレクトリ）
@@ -247,6 +247,6 @@
 
 レベルアップJava ～デザインパターン編～
 
-(各デザインパターンの「使いどころ」を一言でまとめてみた)[https://qiita.com/cooloon/items/62f182f77f70135e31bf]
+[各デザインパターンの「使いどころ」を一言でまとめてみた](https://qiita.com/cooloon/items/62f182f77f70135e31bf)
 
-(再考: GoF デザインパターン)[https://qiita.com/irxground/items/d1f9cc447bafa8db2388]
+[再考: GoF デザインパターン](https://qiita.com/irxground/items/d1f9cc447bafa8db2388)
